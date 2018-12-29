@@ -9,7 +9,7 @@ import akka.actor.ActorSystem;
 import akka.actor.Props;
 
 /**
- * @author Michal Sabo
+ * @author bigdatamatrix@gmail.com
  */
 public class SpringProps {
 

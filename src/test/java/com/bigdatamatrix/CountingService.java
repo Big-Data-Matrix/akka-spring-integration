@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @author Michal Sabo
+ * @author bigdatamatrix@gmail.com
  */
 @Service
 public class CountingService {

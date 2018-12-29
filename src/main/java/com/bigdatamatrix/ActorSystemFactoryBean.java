@@ -13,7 +13,7 @@ import org.springframework.context.ApplicationContextAware;
  * Factory bean that creates actor system for given name and/or configuration.
  * Created actor system is singleton.
  *
- * @author Michal Sabo
+ * @author bigdatamatrix@gmail.com
  */
 public class ActorSystemFactoryBean implements FactoryBean<ActorSystem>, ApplicationContextAware, InitializingBean, DisposableBean {
 
